@@ -6,13 +6,13 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+global.➳ᴹᴿメ 𝐋 𝐔 𝐂 𝐈 𝐅 𝐄 𝐑亗 = [
+  ['8136810956', 'GURU', true],
+  ['"9645991937', 'Ash', true], 
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "" //put your bot number here +15104038937
 
 global.mods = ['917605902011','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
